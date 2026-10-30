@@ -105,9 +105,6 @@ B.Tech | Computer Science & Engineering
 
 A modern and visually appealing brand landing page built using **React.js**, featuring a clean layout, bold typography, attractive product visuals, and a user-friendly interface.
 
-## 📸 Project Preview
-
-![Brand Page Preview](./assets/brand-page.png)
 
 ## 🚀 About the Project
 
