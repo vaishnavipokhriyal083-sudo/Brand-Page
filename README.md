@@ -4,7 +4,7 @@ A modern and visually appealing brand landing page built using **React.js**, fea
 
 ## 📸 Project Preview
 
-![Brand Page Preview](./assets/brand-page.png)
+![Brand Page Preview](https://github.com/vaishnavipokhriyal083-sudo/Brand-Page/blob/main/BrandPageImage.png)
 
 ## 🚀 About the Project
 
