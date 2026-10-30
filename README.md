@@ -204,15 +204,15 @@ Visit `http://localhost:5173/`.
 
 B.Tech | Computer Science & Engineering
 
-- GitHub: [[Your GitHub Profile]([https://github.com/your-username](https://github.com/vaishnavipokhriyal083-sudo))]
-- LinkedIn: [Your LinkedIn Profile](https://linkedin.com/)
+- GitHub: https://github.com/vaishnavipokhriyal083-sudo
+- LinkedIn: https://www.linkedin.com/in/vaishnavi-pokhriyal-48b7ba304/
 
 ---
 
 ⭐ If you like this project, don't forget to give it a star!
 
 *This is an independent frontend practice project and is not an official Nike website.*
-- LinkedIn: [Your LinkedIn Profile](https://linkedin.com/)
+- LinkedIn: https://www.linkedin.com/in/vaishnavi-pokhriyal-48b7ba304/
 
 ---
 
